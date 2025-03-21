@@ -1,0 +1,14 @@
+﻿{
+  "first": {
+    "Name": "Michael Johnson",
+    "Email": "michael.johnson@example.com"
+  },
+  "second": {
+    "Name": "Sarah Williams",
+    "Email": "sarah.williams@test.com"
+  },
+  "third": {
+    "Name": "David Anderson",
+    "Email": "david.anderson@domain.com"
+  }
+}
